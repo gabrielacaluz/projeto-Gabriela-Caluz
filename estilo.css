@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(36, 35, 35);
+    color: white;
+    padding: 0 50px;
+}
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size:20px ;
+}
+a:hover{
+    text-decoration: underline;
+    color: blueviolet;
+    font-size: 25px;
+}
+.container-img{
+    display: flex;
+    justify-content: center;
+}
+.img{
+    height: 250px;
+    width: auto;
+    border-radius: 50%;
+    border: 8px solid blueviolet;
+    
+}
+.titulo{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+h3{
+    color: rgb(174, 119, 224);
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+    margin: 15px;
+}
+
+.rodape{
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 15px;
+}
