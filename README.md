@@ -28,12 +28,6 @@ O portfólio está dividido em 3 páginas:
 
 ---
 
-## 📷 Imagens
-
-Cada projeto contém imagens ilustrativas para facilitar a visualização dos layouts desenvolvidos.
-
----
-
 ## 🧰 Tecnologias utilizadas
 
 - HTML5
@@ -48,7 +42,7 @@ Cada projeto contém imagens ilustrativas para facilitar a visualização dos la
 
 O projeto pode ser visualizado através do GitHub Pages:
 
-🔗 [https://gabrielacaluz.github.io/**projeto-Gabriela-Caluz**](https://gabrielacaluz.github.io)
+🔗 [https://gabrielacaluz.github.io/**projeto-Gabriela-Caluz**](https://gabrielacaluz.github.io/projeto-Gabriela-Caluz/)
 
 ---
 
